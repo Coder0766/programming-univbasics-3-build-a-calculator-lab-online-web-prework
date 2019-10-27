@@ -16,9 +16,9 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
- sum = num1 + num2
+ remainder = num1 + num2
 end
 
 def square_root(num)
- sum = num1 + num2
+ square = num1 + num2
 end
