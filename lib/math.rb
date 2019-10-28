@@ -22,4 +22,3 @@ def Math.sqrt(num)
 sqrt = Math.sqrt(num)
 return sqrt
 end
-end
