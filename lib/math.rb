@@ -18,7 +18,7 @@ def modulo(num1, num2)
  remainder = (num1 % num2)
 end
 
-def math.sqrt(num)
+def Math.sqrt(num)
 sqrt = math.sqrt(num)
 return result
 end
