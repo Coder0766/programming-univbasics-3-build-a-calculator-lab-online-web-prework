@@ -20,6 +20,6 @@ end
 
 def Math.sqrt(num)
 sqrt = Math.sqrt(num)
-return result
+return sqrt
 end
 end
