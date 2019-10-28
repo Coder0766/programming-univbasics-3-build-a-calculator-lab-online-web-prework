@@ -19,7 +19,7 @@ def modulo(num1, num2)
 end
 
 def Math.sqrt(num)
-sqrt = math.sqrt(num)
+sqrt = Math.sqrt(num)
 return result
 end
 end
