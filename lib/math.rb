@@ -20,5 +20,5 @@ end
 
 def Math.sqrt(num)
 sqrt = Math.sqrt(num)
-return the square root of a number
+return sqrt
 end
